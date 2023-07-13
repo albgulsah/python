@@ -1,1 +1,2 @@
 ikinci projemi oluşturuyorum
+diff komutu aktarılıyor
